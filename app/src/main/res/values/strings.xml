@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LoginActivity</string>
+    <string name="enter_user_name">Enter user name</string>
+    <string name="required">Required</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_address">Enter Address</string>
+    <string name="enter_user_Password">Enter Password</string>
+</resources>
